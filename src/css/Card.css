@@ -58,3 +58,14 @@ a{
     text-decoration: none;
     font-weight: bold;
 } 
+.gradedivide{
+    display: flex;
+    flex-Wrap: nowrap;
+    justify-Content: space-evenly;
+
+}
+.centertext{
+    display: flex;
+    justify-Content: center;
+    align-Items: center;
+}
